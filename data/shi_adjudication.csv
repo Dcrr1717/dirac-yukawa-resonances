@@ -1,0 +1,13 @@
+kappa,alpha,A,published_Er,published_Gamma_half,thiswork_Er,thiswork_Gamma_half,abs_dev,shoot_agreement,category,note
+5,2.0,110,2.2834,0.0549,2.283366856,0.054871772,4.4e-05,1.5e-09,reproduced_upgraded,"reproduced at printed rounding; upgraded to ten-digit benchmark"
+5,2.0,110,3.0630,3.4908,3.062977792,3.490785436,2.7e-05,,reproduced_upgraded,"reproduced at printed rounding; broad state (Gamma ~ 7 > shooting limit), validated by theta-stability"
+-6,2.0,110,2.3398,0.0631,2.339843176,0.063126895,5.1e-05,1.8e-09,reproduced_upgraded,"reproduced at printed rounding; upgraded to ten-digit benchmark"
+-6,2.0,110,3.0454,3.5368,3.045442276,3.536770409,5.2e-05,,reproduced_upgraded,"reproduced at printed rounding; broad state, theta-stability only"
+5,2.0,170,0.4648,0.0066,0.479288180,0.000051244,1.6e-02,1.5e-11,corrected,"both methods concur; position shifted ~1.5e-2, width overestimated ~2 orders of magnitude"
+5,2.0,170,2.3913,2.0708,2.390746809,2.079515415,8.7e-03,,deviates_beyond_rounding,"deviation in the 3rd digit; broad state at the shooting limit (Gamma ~ 4.2), adjudicated by theta-stability only"
+-6,2.0,170,0.6613,0.0107,0.669863069,0.000331590,1.3e-02,9.9e-11,corrected,"both methods concur; position shifted, width overestimated"
+-6,2.0,170,2.3385,2.1687,2.341632183,2.176150437,8.1e-03,,deviates_beyond_rounding,"deviation in the 3rd digit; broad state at the shooting limit, theta-stability only"
+10,1.0,200,0.8906,0.0000,0.890578535,0.000000152,2.1e-05,2.2e-10,width_resolved,"position reproduced at printed rounding; published width zero resolved to Gamma = 3.04e-7 (Gamma/2 = 1.52e-7)"
+10,1.0,200,3.2473,0.5827,3.247252848,0.582725649,5.4e-05,2.2e-05,reproduced_upgraded,"reproduced at printed rounding"
+-11,1.0,200,0.9312,0.0000,0.931165061,0.000000252,3.5e-05,5.2e-10,width_resolved,"position reproduced at printed rounding; published width zero resolved to Gamma = 5.04e-7 (Gamma/2 = 2.52e-7)"
+-11,1.0,200,3.2517,0.5956,3.251691140,0.595610434,1.4e-05,2.7e-05,reproduced_upgraded,"reproduced at printed rounding"
